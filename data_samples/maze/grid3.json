@@ -1,0 +1,339 @@
+[
+    {
+        "path_id": 0,
+        "grid_num": 3,
+        "path_locs": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                2,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "file_prefix": "maze/grid3/path_0",
+        "action_list": [
+            "down-1",
+            "left-1",
+            "left-1",
+            "up-1",
+            "up-1"
+        ],
+        "candidate_locs": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "maze_info": "TTTTFTFFFFFFFTFTTF"
+    },
+    {
+        "path_id": 1,
+        "grid_num": 3,
+        "path_locs": [
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                2,
+                0
+            ]
+        ],
+        "file_prefix": "maze/grid3/path_1",
+        "action_list": [
+            "right-1",
+            "down-1",
+            "right-1",
+            "down-1",
+            "left-1",
+            "left-1"
+        ],
+        "candidate_locs": [
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                0
+            ],
+            [
+                2,
+                1
+            ]
+        ],
+        "maze_info": "TTTFFTFFFTFFFTFTTF"
+    },
+    {
+        "path_id": 2,
+        "grid_num": 3,
+        "path_locs": [
+            [
+                1,
+                2
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                2,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                2
+            ]
+        ],
+        "file_prefix": "maze/grid3/path_2",
+        "action_list": [
+            "down-1",
+            "left-1",
+            "left-1",
+            "up-1",
+            "up-1",
+            "right-1",
+            "right-1"
+        ],
+        "candidate_locs": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                2,
+                2
+            ]
+        ],
+        "maze_info": "TFFTFTFFFTTFFTFTTF"
+    },
+    {
+        "path_id": 3,
+        "grid_num": 3,
+        "path_locs": [
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ],
+        "file_prefix": "maze/grid3/path_3",
+        "action_list": [
+            "right-1",
+            "down-1"
+        ],
+        "candidate_locs": [
+            [
+                2,
+                0
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "maze_info": "TTTTFTFFFFTFFFFTTF"
+    },
+    {
+        "path_id": 4,
+        "grid_num": 3,
+        "path_locs": [
+            [
+                1,
+                1
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                2,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                2
+            ]
+        ],
+        "file_prefix": "maze/grid3/path_4",
+        "action_list": [
+            "down-1",
+            "right-1",
+            "up-1",
+            "up-1"
+        ],
+        "candidate_locs": [
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "maze_info": "TFTFTTFFFFTFTFFTTF"
+    },
+    {
+        "path_id": 5,
+        "grid_num": 3,
+        "path_locs": [
+            [
+                2,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                2,
+                1
+            ]
+        ],
+        "file_prefix": "maze/grid3/path_5",
+        "action_list": [
+            "up-1",
+            "up-1",
+            "left-1",
+            "down-1",
+            "down-1"
+        ],
+        "candidate_locs": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                2,
+                1
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "maze_info": "FTTTTTFFFTTFFFFTFF"
+    }
+]
